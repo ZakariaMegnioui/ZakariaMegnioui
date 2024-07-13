@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **DevOps , Docker**
 
-- 👯 I collaborate with **AjiCod**
+- 👯 I collaborate with **DAR DIGITAL**
 
 - 👨‍💻 All of my projects are available at [https://valiiri02.netlify.app/](https://valiiri02.netlify.app/)
 
-- 💬 Ask me about **React , Vue , Laravel , CMS , Express.js , Spring**
+- 💬 Ask me about **React , Vue , Laravel , CMS , Express.js , Spring **
 
 - 📫 How to reach me **fromvaliiri@gmail.com**
 
